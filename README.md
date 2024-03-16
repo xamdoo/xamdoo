@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Hamda!
+# Hi, I'm Hamda <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhzN3U3cXJ3em43NWhhdmNtcDc1Y3ZvYXd3N2VocmhzamhtM3lleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="50"/>
 
-**`Health Through Tech & Cycling`**
+<h4 align= "center"> Full-Stack Developer with a background in health. <br /> A lifelong learner with a passion for building and continuous growth. </h4>
 
-
-Public Health 👩🏾‍⚕️ | Avid Cyclist 🚴🏾‍♀️| Aspiring Full-Stack Developer 👩🏾‍💻 
-<br />
+    - 🐍 Currently learning Python and PostgreSQL
+    - 🚴🏾‍♀️ Avid Cyclist
+    - ✨ Motto: Code it into reality
+ 
 
 #
 <!--
@@ -20,6 +21,4 @@ Public Health 👩🏾‍⚕️ | Avid Cyclist 🚴🏾‍♀️| Aspiring Full-
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=xamdoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
