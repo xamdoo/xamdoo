@@ -1,10 +1,13 @@
-### Hi there 👋
+# 👋 Hi, I'm Hamda!
 
+**`Health Through Tech & Cycling`**
+
+
+Public Health 👩🏾‍⚕️ | Avid Cyclist 🚴🏾‍♀️| Aspiring Full-Stack Developer 👩🏾‍💻 
+<br />
+
+#
 <!--
-**xamdoo/xamdoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=xamdoo&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
